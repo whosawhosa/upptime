@@ -31,7 +31,7 @@ status-website:
     - title: Status
       href: https://status.drekay.com
     - title: GitHub
-      href: #
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
