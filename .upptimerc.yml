@@ -3,22 +3,22 @@ owner: whosawhosa # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: 台灣蘋果日報
+  - name: AppleDaily台灣蘋果日報
     url: https://tw.appledaily.com
     maxResponseTime: 1000
   - name: ET-Today新聞雲
     url: https://www.ettoday.net/
     maxResponseTime: 1000
-  - name: 三立新聞
+  - name: SETN三立新聞
     url: https://www.setn.com/
     maxResponseTime: 1000
-  - name: 中時新聞網
+  - name: CHINATIMES中時新聞網
     url: https://www.chinatimes.com/?chdtv
     maxResponseTime: 1000
   - name: TVBS
     url: https://www.tvbs.com.tw/
     maxResponseTime: 1000
-  - name: 鏡週刊
+  - name: MirrorMedia鏡週刊
     url: https://www.mirrormedia.mg/
     maxResponseTime: 1000
   - name: UDN聯合新聞網
