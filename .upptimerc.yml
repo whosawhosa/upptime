@@ -15,7 +15,7 @@ sites:
   - name: CHINATIMES中時新聞網
     url: https://www.chinatimes.com/?chdtv
     maxResponseTime: 1000
-  - name: TVBS
+  - name: TVBS新聞網
     url: https://www.tvbs.com.tw/
     maxResponseTime: 1000
   - name: MirrorMedia鏡週刊
@@ -24,6 +24,25 @@ sites:
   - name: UDN聯合新聞網
     url: https://udn.com/news/index
     maxResponseTime: 1000
+  - name: Yahoo奇摩新聞
+    url: https://tw.news.yahoo.com/
+    maxResponseTime: 1000
+  - name: LTN自由時報電子報
+    url: https://www.ltn.com.tw/
+    maxResponseTime: 1000
+  - name: NOWnews今日新聞
+    url: https://www.nownews.com/
+    maxResponseTime: 1000
+  - name: newtalk新頭殼
+    url: https://newtalk.tw/
+    maxResponseTime: 1000
+  - name: TechNews 科技新報
+    url: https://technews.tw/
+    maxResponseTime: 1000
+  - name: businessweekly商業週刊
+    url: https://www.businessweekly.com.tw/
+    maxResponseTime: 1000
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -36,7 +55,7 @@ status-website:
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: https://status.drekay.com
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
