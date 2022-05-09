@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Facebook
-    url: https://www.fcebook.com
+    url: https://www.facebook.com
   - name: Apple
     url: https://www.apple.com
   - name: www.twitter.com
