@@ -220,19 +220,19 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.businessweekly.com.tw",
     "slug": "businessweekly",
-    "status": "degraded",
-    "uptime": "31.44%",
-    "uptimeDay": "31.44%",
-    "uptimeWeek": "31.44%",
-    "uptimeMonth": "31.44%",
-    "uptimeYear": "31.44%",
-    "time": 2974,
-    "timeDay": 2974,
-    "timeWeek": 2974,
-    "timeMonth": 2974,
-    "timeYear": 2974,
+    "status": "up",
+    "uptime": "7.16%",
+    "uptimeDay": "7.16%",
+    "uptimeWeek": "7.16%",
+    "uptimeMonth": "7.16%",
+    "uptimeYear": "7.16%",
+    "time": 1849,
+    "timeDay": 1849,
+    "timeWeek": 1849,
+    "timeMonth": 1849,
+    "timeYear": 1849,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 3
     }
   }
 ]
