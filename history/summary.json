@@ -167,18 +167,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nownews.com",
     "slug": "no-wnews",
     "status": "up",
-    "uptime": "74.35%",
-    "uptimeDay": "74.35%",
-    "uptimeWeek": "74.35%",
-    "uptimeMonth": "74.35%",
-    "uptimeYear": "74.35%",
+    "uptime": "81.46%",
+    "uptimeDay": "81.46%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "81.46%",
+    "uptimeYear": "81.46%",
     "time": 1043,
     "timeDay": 1043,
     "timeWeek": 1043,
     "timeMonth": 1043,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2022-05-09": 58
+      "2022-05-09": 46
     }
   },
   {
@@ -204,35 +204,39 @@
     "url": "https://technews.tw/",
     "icon": "https://favicons.githubusercontent.com/technews.tw",
     "slug": "tech-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1071,
-    "timeWeek": 1071,
-    "timeMonth": 1071,
-    "timeYear": 1071,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1164,
+    "timeDay": 1164,
+    "timeWeek": 1164,
+    "timeMonth": 1164,
+    "timeYear": 1164,
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   },
   {
     "name": "businessweekly商業週刊",
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.businessweekly.com.tw",
     "slug": "businessweekly",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1849,
-    "timeDay": 1849,
-    "timeWeek": 1849,
-    "timeMonth": 1849,
-    "timeYear": 1849,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2222,
+    "timeDay": 2222,
+    "timeWeek": 2222,
+    "timeMonth": 2222,
+    "timeYear": 2222,
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   }
 ]
