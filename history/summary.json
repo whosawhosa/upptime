@@ -166,19 +166,19 @@
     "url": "https://www.nownews.com/",
     "icon": "https://favicons.githubusercontent.com/www.nownews.com",
     "slug": "no-wnews",
-    "status": "degraded",
-    "uptime": "72.70%",
-    "uptimeDay": "72.70%",
-    "uptimeWeek": "72.70%",
-    "uptimeMonth": "72.70%",
-    "uptimeYear": "72.70%",
-    "time": 1029,
-    "timeDay": 1029,
-    "timeWeek": 1029,
-    "timeMonth": 1029,
-    "timeYear": 1029,
+    "status": "up",
+    "uptime": "40.45%",
+    "uptimeDay": "40.45%",
+    "uptimeWeek": "40.45%",
+    "uptimeMonth": "40.45%",
+    "uptimeYear": "40.45%",
+    "time": 1002,
+    "timeDay": 1002,
+    "timeWeek": 1002,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-05-09": 12
+      "2022-05-09": 46
     }
   },
   {
@@ -205,19 +205,17 @@
     "icon": "https://favicons.githubusercontent.com/technews.tw",
     "slug": "tech-news",
     "status": "up",
-    "uptime": "73.27%",
-    "uptimeDay": "73.27%",
-    "uptimeWeek": "73.27%",
-    "uptimeMonth": "73.27%",
-    "uptimeYear": "73.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1071,
     "timeDay": 1071,
     "timeWeek": 1071,
     "timeMonth": 1071,
     "timeYear": 1071,
-    "dailyMinutesDown": {
-      "2022-05-09": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "businessweekly商業週刊",
