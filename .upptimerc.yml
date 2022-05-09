@@ -31,3 +31,10 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 目前異常事件
+  pastIncidents: 過去的異常事件
+  incidentDetails: 事件細節
+  incidentFixed: 已修復
+  incidentOngoing: 尚未修復
