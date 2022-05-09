@@ -3,26 +3,26 @@ owner: whosawhosa # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: 台灣蘋果日報
+    url: https://tw.appledaily.com
     maxResponseTime: 1000
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: ET-Today新聞雲
+    url: https://www.ettoday.net/
     maxResponseTime: 1000
-  - name: Facebook
-    url: https://www.facebook.com
+  - name: 三立新聞
+    url: https://www.setn.com/
     maxResponseTime: 1000
-  - name: Apple
-    url: https://www.apple.com
+  - name: 中時新聞網
+    url: https://www.chinatimes.com/?chdtv
     maxResponseTime: 1000
-  - name: TWitter
-    url: https://www.twitter.com
+  - name: TVBS
+    url: https://www.tvbs.com.tw/
     maxResponseTime: 1000
-  - name: TESLA
-    url: https://www.tesla.com
+  - name: 鏡週刊
+    url: https://www.mirrormedia.mg/
     maxResponseTime: 1000
-  - name: Github
-    url: https://www.github.com
+  - name: UDN聯合新聞網
+    url: https://udn.com/news/index
     maxResponseTime: 1000
 
 status-website:
