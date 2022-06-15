@@ -174,11 +174,11 @@
     "icon": "https://favicons.githubusercontent.com/www.nownews.com",
     "slug": "no-wnews",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 1479,
     "timeDay": 2225,
     "timeWeek": 1629,
@@ -234,9 +234,9 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.businessweekly.com.tw",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -245,6 +245,8 @@
     "timeWeek": 2705,
     "timeMonth": 2692,
     "timeYear": 2530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   }
 ]
