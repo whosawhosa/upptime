@@ -22,10 +22,10 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1796,
@@ -33,7 +33,9 @@
     "timeWeek": 1750,
     "timeMonth": 1777,
     "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "SETN三立新聞",
@@ -250,9 +252,9 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
@@ -262,6 +264,7 @@
     "timeMonth": 2447,
     "timeYear": 2622,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-22": 19,
       "2022-10-12": 29,
       "2022-09-01": 19,
