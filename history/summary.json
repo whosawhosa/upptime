@@ -169,19 +169,19 @@
     "url": "https://www.ltn.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ltn.com.tw.ico",
     "slug": "ltn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 656,
-    "timeWeek": 308,
-    "timeMonth": 435,
-    "timeYear": 335,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 334,
+    "timeDay": 366,
+    "timeWeek": 279,
+    "timeMonth": 424,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-07": 44
     }
   },
   {
