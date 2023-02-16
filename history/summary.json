@@ -171,9 +171,9 @@
     "url": "https://www.ltn.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ltn.com.tw.ico",
     "slug": "ltn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -183,6 +183,7 @@
     "timeMonth": 496,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2023-02-16": 0,
       "2023-02-07": 44
     }
   },
