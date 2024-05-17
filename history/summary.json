@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.89%",
+    "uptimeYear": "60.91%",
     "time": 1210,
     "timeDay": 354,
     "timeWeek": 568,
@@ -161,8 +161,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   },
   {
@@ -214,14 +213,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "32.93%",
+    "uptimeYear": "32.91%",
     "time": 165,
     "timeDay": 56,
     "timeWeek": 73,
     "timeMonth": 83,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-05-16": 1405,
+      "2024-05-17": 59,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -538,18 +538,16 @@
     "slug": "udn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 206,
     "timeWeek": 212,
     "timeMonth": 252,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2024-05-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yahoo奇摩新聞",
