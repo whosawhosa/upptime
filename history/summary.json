@@ -176,7 +176,7 @@
     "timeMonth": 86,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-06-27": 582,
+      "2024-06-27": 592,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -564,19 +564,19 @@
     "url": "https://tw.news.yahoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tw.news.yahoo.com.ico",
     "slug": "yahoo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1132,
-    "timeDay": 960,
-    "timeWeek": 967,
-    "timeMonth": 959,
-    "timeYear": 1064,
+    "time": 1131,
+    "timeDay": 1078,
+    "timeWeek": 1005,
+    "timeMonth": 970,
+    "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-06-27": 28
+      "2024-06-27": 38
     }
   },
   {
