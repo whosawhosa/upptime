@@ -103,7 +103,7 @@
     "timeMonth": 105,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-09-10": 225,
+      "2024-09-10": 235,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -633,19 +633,19 @@
     "url": "https://www.nownews.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nownews.com.ico",
     "slug": "no-wnews",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1903,
-    "timeDay": 1868,
-    "timeWeek": 2091,
-    "timeMonth": 1976,
-    "timeYear": 1960,
+    "time": 1905,
+    "timeDay": 2118,
+    "timeWeek": 2126,
+    "timeMonth": 1989,
+    "timeYear": 1961,
     "dailyMinutesDown": {
-      "2024-09-10": 0
+      "2024-09-10": 10
     }
   },
   {
