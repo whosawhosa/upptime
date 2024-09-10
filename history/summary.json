@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "77.77%",
+    "uptime": "77.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.69%",
+    "uptimeYear": "92.72%",
     "time": 1283,
     "timeDay": 1198,
     "timeWeek": 1205,
@@ -96,14 +96,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.13%",
+    "uptimeYear": "1.10%",
     "time": 135,
     "timeDay": 134,
     "timeWeek": 106,
     "timeMonth": 105,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-09-10": 69,
+      "2024-09-10": 225,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -633,9 +633,9 @@
     "url": "https://www.nownews.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nownews.com.ico",
     "slug": "no-wnews",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -644,7 +644,9 @@
     "timeWeek": 2091,
     "timeMonth": 1976,
     "timeYear": 1960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   },
   {
     "name": "newtalk新頭殼",
