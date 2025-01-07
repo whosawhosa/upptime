@@ -50,17 +50,17 @@
     "slug": "setn",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 761,
     "timeDay": 2684,
     "timeWeek": 1264,
     "timeMonth": 867,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-01-07": 0
+      "2025-01-07": 29
     }
   },
   {
@@ -80,7 +80,7 @@
     "timeMonth": 109,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-01-07": 44,
+      "2025-01-07": 73,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
