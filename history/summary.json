@@ -48,19 +48,19 @@
     "url": "https://www.setn.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.setn.com.ico",
     "slug": "setn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 760,
-    "timeDay": 1567,
-    "timeWeek": 1162,
-    "timeMonth": 854,
+    "time": 762,
+    "timeDay": 1401,
+    "timeWeek": 1152,
+    "timeMonth": 861,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-01-07": 86
+      "2025-01-07": 114
     }
   },
   {
@@ -80,7 +80,7 @@
     "timeMonth": 109,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-01-07": 783,
+      "2025-01-07": 811,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
