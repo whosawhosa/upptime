@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "81.35%",
+    "uptime": "81.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,7 +76,7 @@
     "timeMonth": 119,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-02-21": 153,
+      "2025-02-21": 324,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -684,9 +684,9 @@
     "url": "https://technews.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/technews.tw.ico",
     "slug": "tech-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -695,7 +695,9 @@
     "timeWeek": 905,
     "timeMonth": 905,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "businessweekly商業週刊",
