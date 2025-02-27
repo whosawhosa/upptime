@@ -14,7 +14,7 @@
     "timeDay": 22493,
     "timeWeek": 5163,
     "timeMonth": 2219,
-    "timeYear": 1031,
+    "timeYear": 1032,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1830,
     "timeWeek": 2107,
     "timeMonth": 2216,
-    "timeYear": 2395,
+    "timeYear": 2394,
     "dailyMinutesDown": {
       "2024-08-14": 33
     }
@@ -52,7 +52,7 @@
     "timeDay": 738,
     "timeWeek": 483,
     "timeMonth": 761,
-    "timeYear": 821,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2025-02-26": 19,
       "2025-02-25": 22,
@@ -80,7 +80,7 @@
     "timeMonth": 124,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-02-27": 1375,
+      "2025-02-27": 1395,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -462,7 +462,7 @@
     "timeDay": 712,
     "timeWeek": 967,
     "timeMonth": 801,
-    "timeYear": 780,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2025-02-19": 20,
       "2025-02-12": 26,
@@ -610,7 +610,7 @@
     "timeDay": 670,
     "timeWeek": 806,
     "timeMonth": 934,
-    "timeYear": 1006,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2024-06-27": 28
     }
@@ -620,19 +620,19 @@
     "url": "https://www.ltn.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ltn.com.tw.ico",
     "slug": "ltn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
     "time": 791,
-    "timeDay": 2699,
-    "timeWeek": 2140,
-    "timeMonth": 2053,
+    "timeDay": 1412,
+    "timeWeek": 1852,
+    "timeMonth": 1998,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2025-02-27": 0,
+      "2025-02-27": 20,
       "2025-02-18": 22,
       "2024-08-06": 64,
       "2024-08-05": 505,
@@ -660,7 +660,7 @@
     "timeDay": 2733,
     "timeWeek": 2150,
     "timeMonth": 2381,
-    "timeYear": 2176,
+    "timeYear": 2178,
     "dailyMinutesDown": {}
   },
   {
@@ -698,7 +698,7 @@
     "timeDay": 827,
     "timeWeek": 828,
     "timeMonth": 882,
-    "timeYear": 933,
+    "timeYear": 932,
     "dailyMinutesDown": {}
   },
   {
@@ -716,7 +716,7 @@
     "timeDay": 2563,
     "timeWeek": 2796,
     "timeMonth": 2763,
-    "timeYear": 2720,
+    "timeYear": 2719,
     "dailyMinutesDown": {
       "2024-05-06": 37,
       "2024-05-05": 22,
