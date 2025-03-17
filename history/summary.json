@@ -87,7 +87,7 @@
     "timeMonth": 109,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-17": 574,
+      "2025-03-17": 585,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -691,19 +691,19 @@
     "url": "https://technews.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/technews.tw.ico",
     "slug": "tech-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 956,
-    "timeDay": 1013,
-    "timeWeek": 994,
-    "timeMonth": 919,
+    "timeDay": 1030,
+    "timeWeek": 1001,
+    "timeMonth": 923,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-03-17": 1
+      "2025-03-17": 11
     }
   },
   {
