@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "81.78%",
+    "uptime": "81.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -51,7 +51,7 @@
     "time": 758,
     "timeDay": 654,
     "timeWeek": 577,
-    "timeMonth": 574,
+    "timeMonth": 579,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2025-03-15": 17,
@@ -76,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "down",
-    "uptime": "47.35%",
+    "uptime": "47.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -87,7 +87,7 @@
     "timeMonth": 109,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-17": 79,
+      "2025-03-17": 574,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -691,18 +691,20 @@
     "url": "https://technews.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/technews.tw.ico",
     "slug": "tech-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
+    "time": 956,
     "timeDay": 1013,
     "timeWeek": 994,
     "timeMonth": 919,
     "timeYear": 930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "businessweekly商業週刊",
