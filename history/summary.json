@@ -4,18 +4,20 @@
     "url": "https://tw.appledaily.com",
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
-    "status": "up",
-    "uptime": "81.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.96%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1663,
-    "timeDay": 1189,
-    "timeWeek": 1256,
-    "timeMonth": 1346,
-    "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "time": 1675,
+    "timeDay": 3977,
+    "timeWeek": 1945,
+    "timeMonth": 1533,
+    "timeYear": 1103,
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "ET-Today新聞雲",
@@ -78,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "down",
-    "uptime": "46.90%",
+    "uptime": "46.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -89,7 +91,7 @@
     "timeMonth": 108,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-03-27": 77,
+      "2025-03-27": 327,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
