@@ -101,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "down",
-    "uptime": "42.03%",
+    "uptime": "42.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -112,7 +112,7 @@
     "timeMonth": 124,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-07-27": 108,
+      "2025-07-27": 496,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -695,18 +695,19 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2781,
+    "time": 2782,
     "timeDay": 2702,
     "timeWeek": 2863,
     "timeMonth": 2974,
     "timeYear": 2854,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-04-22": 20
     }
   }
