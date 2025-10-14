@@ -613,19 +613,19 @@
     "url": "https://technews.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/technews.tw.ico",
     "slug": "tech-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 984,
-    "timeWeek": 883,
-    "timeMonth": 1038,
-    "timeYear": 921,
+    "time": 916,
+    "timeDay": 1119,
+    "timeWeek": 929,
+    "timeMonth": 1045,
+    "timeYear": 922,
     "dailyMinutesDown": {
-      "2025-10-14": 0
+      "2025-10-14": 21
     }
   },
   {
