@@ -32,7 +32,7 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "93.31%",
-    "uptimeWeek": "90.04%",
+    "uptimeWeek": "90.22%",
     "uptimeMonth": "95.13%",
     "uptimeYear": "99.57%",
     "time": 2318,
@@ -123,7 +123,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "20.07%",
+    "uptimeYear": "20.08%",
     "time": 149,
     "timeDay": 108,
     "timeWeek": 1069,
@@ -587,9 +587,9 @@
     "url": "https://technews.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/technews.tw.ico",
     "slug": "tech-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -599,6 +599,7 @@
     "timeMonth": 1856,
     "timeYear": 1012,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-11-04": 19,
       "2025-10-14": 21
     }
