@@ -31,18 +31,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.86%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "99.52%",
     "time": 2314,
     "timeDay": 2425,
     "timeWeek": 2302,
     "timeMonth": 2269,
     "timeYear": 2300,
     "dailyMinutesDown": {
-      "2025-11-19": 70,
+      "2025-11-19": 59,
       "2025-11-18": 172,
       "2025-11-17": 54,
       "2025-11-16": 95,
@@ -123,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "44.15%",
+    "uptime": "44.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "20.86%",
+    "uptimeYear": "20.88%",
     "time": 149,
     "timeDay": 60,
     "timeWeek": 219,
@@ -423,8 +423,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -465,8 +464,7 @@
       "2024-11-30": 17,
       "2024-11-27": 38,
       "2024-11-22": 17,
-      "2024-11-21": 28,
-      "2024-11-20": 20
+      "2024-11-21": 28
     }
   },
   {
