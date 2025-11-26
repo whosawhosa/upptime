@@ -32,17 +32,18 @@
     "slug": "et-today",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "84.16%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "83.36%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.34%",
     "time": 2316,
-    "timeDay": 2155,
+    "timeDay": 2131,
     "timeWeek": 2311,
     "timeMonth": 2274,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2025-11-25": 222,
+      "2025-11-26": 84,
+      "2025-11-25": 227,
       "2025-11-24": 8,
       "2025-11-23": 197,
       "2025-11-22": 137,
@@ -133,7 +134,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "22.50%",
+    "uptimeYear": "22.52%",
     "time": 151,
     "timeDay": 358,
     "timeWeek": 207,
@@ -423,8 +424,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
