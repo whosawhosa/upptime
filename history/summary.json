@@ -13,7 +13,7 @@
     "time": 1604,
     "timeDay": 1431,
     "timeWeek": 1154,
-    "timeMonth": 1094,
+    "timeMonth": 1089,
     "timeYear": 1717,
     "dailyMinutesDown": {
       "2025-11-18": 146,
@@ -86,7 +86,7 @@
     "time": 740,
     "timeDay": 462,
     "timeWeek": 381,
-    "timeMonth": 598,
+    "timeMonth": 550,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2025-05-12": 100,
@@ -128,15 +128,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "44.62%",
+    "uptime": "44.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "23.87%",
+    "uptimeYear": "23.90%",
     "time": 152,
     "timeDay": 217,
     "timeWeek": 242,
-    "timeMonth": 427,
+    "timeMonth": 438,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-11-18": 82,
@@ -417,8 +417,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -435,7 +434,7 @@
     "time": 823,
     "timeDay": 1116,
     "timeWeek": 738,
-    "timeMonth": 761,
+    "timeMonth": 758,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2025-11-21": 409,
@@ -474,7 +473,7 @@
     "time": 2211,
     "timeDay": 1635,
     "timeWeek": 2712,
-    "timeMonth": 2321,
+    "timeMonth": 2331,
     "timeYear": 2298,
     "dailyMinutesDown": {}
   },
@@ -492,7 +491,7 @@
     "time": 281,
     "timeDay": 325,
     "timeWeek": 164,
-    "timeMonth": 182,
+    "timeMonth": 183,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -510,7 +509,7 @@
     "time": 927,
     "timeDay": 650,
     "timeWeek": 597,
-    "timeMonth": 680,
+    "timeMonth": 679,
     "timeYear": 890,
     "dailyMinutesDown": {}
   },
@@ -528,7 +527,7 @@
     "time": 1783,
     "timeDay": 1373,
     "timeWeek": 1488,
-    "timeMonth": 1256,
+    "timeMonth": 1273,
     "timeYear": 1947,
     "dailyMinutesDown": {
       "2025-06-19": 18,
@@ -552,7 +551,7 @@
     "time": 2363,
     "timeDay": 2106,
     "timeWeek": 2014,
-    "timeMonth": 2267,
+    "timeMonth": 2243,
     "timeYear": 2434,
     "dailyMinutesDown": {
       "2025-03-05": 20
@@ -572,7 +571,7 @@
     "time": 474,
     "timeDay": 415,
     "timeWeek": 408,
-    "timeMonth": 467,
+    "timeMonth": 469,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
@@ -590,7 +589,7 @@
     "time": 981,
     "timeDay": 1021,
     "timeWeek": 924,
-    "timeMonth": 1830,
+    "timeMonth": 1856,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-11-22": 34,
@@ -614,7 +613,7 @@
     "time": 2951,
     "timeDay": 2916,
     "timeWeek": 2631,
-    "timeMonth": 3172,
+    "timeMonth": 3171,
     "timeYear": 3026,
     "dailyMinutesDown": {
       "2025-09-12": 18,
