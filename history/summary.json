@@ -131,7 +131,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "25.07%",
+    "uptimeYear": "25.08%",
     "time": 153,
     "timeDay": 124,
     "timeWeek": 257,
@@ -555,19 +555,19 @@
     "url": "https://newtalk.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/newtalk.tw.ico",
     "slug": "newtalk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 473,
-    "timeDay": 275,
-    "timeWeek": 382,
-    "timeMonth": 459,
+    "timeDay": 300,
+    "timeWeek": 378,
+    "timeMonth": 456,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-12-05": 1
+      "2025-12-05": 27
     }
   },
   {
