@@ -33,7 +33,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "94.76%",
-    "uptimeWeek": "90.46%",
+    "uptimeWeek": "91.36%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "99.27%",
     "time": 2302,
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "44.79%",
+    "uptime": "44.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "24.97%",
+    "uptimeYear": "24.99%",
     "time": 153,
     "timeDay": 124,
     "timeWeek": 257,
@@ -412,8 +412,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
