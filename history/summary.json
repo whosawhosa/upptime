@@ -32,17 +32,17 @@
     "slug": "et-today",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "90.79%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "91.07%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 2295,
     "timeDay": 2288,
-    "timeWeek": 2387,
-    "timeMonth": 2272,
+    "timeWeek": 2392,
+    "timeMonth": 2274,
     "timeYear": 2284,
     "dailyMinutesDown": {
-      "2025-12-21": 197,
+      "2025-12-21": 183,
       "2025-12-20": 97,
       "2025-12-19": 185,
       "2025-12-18": 41,
@@ -68,7 +68,7 @@
       "2025-11-28": 240,
       "2025-11-27": 174,
       "2025-11-26": 181,
-      "2025-11-25": 21
+      "2025-11-25": 36
     }
   },
   {
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "45.50%",
+    "uptime": "45.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.62%",
+    "uptimeYear": "29.65%",
     "time": 157,
     "timeDay": 328,
     "timeWeek": 202,
@@ -395,8 +395,7 @@
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
-      "2024-12-23": 1440,
-      "2024-12-22": 1440
+      "2024-12-23": 1440
     }
   },
   {
@@ -563,12 +562,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 978,
     "timeDay": 608,
     "timeWeek": 749,
-    "timeMonth": 927,
+    "timeMonth": 933,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-11-22": 34,
