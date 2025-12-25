@@ -133,7 +133,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.63%",
+    "uptimeYear": "30.64%",
     "time": 157,
     "timeDay": 423,
     "timeWeek": 198,
@@ -457,19 +457,19 @@
     "url": "https://udn.com/news/index",
     "icon": "https://icons.duckduckgo.com/ip3/udn.com.ico",
     "slug": "udn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 295,
-    "timeWeek": 130,
-    "timeMonth": 170,
+    "timeDay": 236,
+    "timeWeek": 136,
+    "timeMonth": 171,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-12-25": 1
+      "2025-12-25": 37
     }
   },
   {
