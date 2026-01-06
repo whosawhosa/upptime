@@ -33,7 +33,7 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "96.02%",
-    "uptimeWeek": "90.97%",
+    "uptimeWeek": "92.02%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "99.15%",
     "time": 2299,
@@ -130,11 +130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "46.06%",
+    "uptime": "46.07%",
     "uptimeDay": "31.67%",
     "uptimeWeek": "90.24%",
     "uptimeMonth": "97.75%",
-    "uptimeYear": "33.54%",
+    "uptimeYear": "33.57%",
     "time": 159,
     "timeDay": 173,
     "timeWeek": 171,
@@ -384,8 +384,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -510,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nownews.com.ico",
     "slug": "no-wnews",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
