@@ -30,19 +30,19 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "88.36%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "99.06%",
-    "time": 2280,
-    "timeDay": 2003,
-    "timeWeek": 2019,
-    "timeMonth": 2233,
-    "timeYear": 2266,
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "88.66%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "99.07%",
+    "time": 2281,
+    "timeDay": 1991,
+    "timeWeek": 2014,
+    "timeMonth": 2234,
+    "timeYear": 2267,
     "dailyMinutesDown": {
-      "2026-01-16": 116,
+      "2026-01-16": 117,
       "2026-01-15": 138,
       "2026-01-14": 117,
       "2026-01-13": 109,
@@ -72,7 +72,7 @@
       "2025-12-20": 97,
       "2025-12-19": 185,
       "2025-12-18": 41,
-      "2025-12-17": 158
+      "2025-12-17": 125
     }
   },
   {
@@ -134,7 +134,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.75%",
-    "uptimeYear": "36.52%",
+    "uptimeYear": "36.56%",
     "time": 161,
     "timeDay": 392,
     "timeWeek": 204,
@@ -426,7 +426,7 @@
     "timeDay": 1295,
     "timeWeek": 1437,
     "timeMonth": 1938,
-    "timeYear": 2330,
+    "timeYear": 2332,
     "dailyMinutesDown": {}
   },
   {
@@ -444,7 +444,7 @@
     "timeDay": 241,
     "timeWeek": 207,
     "timeMonth": 188,
-    "timeYear": 225,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-12-25": 37
     }
@@ -482,7 +482,7 @@
     "timeDay": 1556,
     "timeWeek": 1267,
     "timeMonth": 1253,
-    "timeYear": 1843,
+    "timeYear": 1841,
     "dailyMinutesDown": {
       "2025-06-19": 18,
       "2025-05-16": 24,
@@ -546,7 +546,7 @@
     "timeDay": 977,
     "timeWeek": 837,
     "timeMonth": 831,
-    "timeYear": 1011,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-11-22": 34,
       "2025-11-21": 18,
@@ -570,7 +570,7 @@
     "timeDay": 2823,
     "timeWeek": 2983,
     "timeMonth": 3118,
-    "timeYear": 3058,
+    "timeYear": 3060,
     "dailyMinutesDown": {
       "2026-01-16": 48,
       "2026-01-15": 10,
