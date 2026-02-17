@@ -31,15 +31,15 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "80.27%",
-    "uptimeWeek": "91.86%",
+    "uptimeDay": "85.10%",
+    "uptimeWeek": "91.96%",
     "uptimeMonth": "91.65%",
     "uptimeYear": "99.16%",
     "time": 2273,
-    "timeDay": 2271,
-    "timeWeek": 2256,
+    "timeDay": 2280,
+    "timeWeek": 2277,
     "timeMonth": 2228,
     "timeYear": 2259,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
       "2026-01-14": 117,
       "2026-01-13": 109,
       "2026-01-12": 254,
-      "2026-01-11": 48
+      "2026-01-11": 25
     }
   },
   {
@@ -134,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "47.72%",
+    "uptime": "47.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.19%",
+    "uptimeYear": "45.25%",
     "time": 170,
     "timeDay": 388,
     "timeWeek": 286,
