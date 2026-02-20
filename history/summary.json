@@ -31,12 +31,12 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "93.41%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "99.18%",
     "time": 2271,
     "timeDay": 2170,
     "timeWeek": 2310,
@@ -76,8 +76,7 @@
       "2026-01-18": 120,
       "2026-01-16": 116,
       "2026-01-15": 138,
-      "2026-01-14": 117,
-      "2026-01-13": 63
+      "2026-01-14": 117
     }
   },
   {
@@ -135,9 +134,9 @@
     "slug": "chinatimes",
     "status": "down",
     "uptime": "47.85%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "46.13%",
     "time": 172,
     "timeDay": 346,
@@ -145,7 +144,7 @@
     "timeMonth": 268,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2026-02-20": 1,
+      "2026-02-20": 20,
       "2026-01-05": 984,
       "2025-11-18": 82,
       "2025-10-17": 25,
