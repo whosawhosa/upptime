@@ -32,13 +32,13 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "78.38%",
-    "uptimeWeek": "87.89%",
+    "uptimeDay": "78.36%",
+    "uptimeWeek": "88.09%",
     "uptimeMonth": "90.51%",
-    "uptimeYear": "98.91%",
-    "time": 2262,
+    "uptimeYear": "98.92%",
+    "time": 2261,
     "timeDay": 2072,
     "timeWeek": 2098,
     "timeMonth": 2153,
@@ -82,7 +82,7 @@
       "2026-02-05": 163,
       "2026-02-04": 206,
       "2026-02-03": 117,
-      "2026-02-01": 54
+      "2026-02-01": 27
     }
   },
   {
@@ -131,7 +131,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "52.35%",
+    "uptimeYear": "52.36%",
     "time": 178,
     "timeDay": 386,
     "timeWeek": 293,
