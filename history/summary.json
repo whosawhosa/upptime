@@ -85,19 +85,19 @@
     "url": "https://www.setn.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.setn.com.ico",
     "slug": "setn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 38,
-    "timeWeek": 732,
-    "timeMonth": 689,
-    "timeYear": 729,
+    "timeDay": 225,
+    "timeWeek": 692,
+    "timeMonth": 681,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2026-06-03": 0
+      "2026-06-03": 26
     }
   },
   {
