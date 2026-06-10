@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "87.23%",
+    "uptime": "87.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -27,9 +27,9 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
@@ -39,7 +39,7 @@
     "timeMonth": 2104,
     "timeYear": 2232,
     "dailyMinutesDown": {
-      "2026-02-05": 163,
+      "2026-02-05": 140,
       "2026-02-06": 144,
       "2026-02-07": 107,
       "2026-02-08": 187,
@@ -77,7 +77,8 @@
       "2026-03-15": 331,
       "2026-03-16": 57,
       "2026-03-17": 67,
-      "2026-03-18": 35
+      "2026-03-18": 35,
+      "2026-06-10": 0
     }
   },
   {
@@ -108,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "51.52%",
+    "uptime": "51.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.46%",
+    "uptimeYear": "75.66%",
     "time": 200,
     "timeDay": 125,
     "timeWeek": 187,
