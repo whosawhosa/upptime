@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "87.56%",
+    "uptime": "87.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 638,
     "timeWeek": 887,
     "timeMonth": 989,
-    "timeYear": 1222,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2025-11-18": 146,
       "2026-02-13": 57,
@@ -27,19 +27,18 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "79.69%",
-    "uptimeWeek": "94.06%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "98.87%",
     "time": 2232,
-    "timeDay": 2063,
+    "timeDay": 2208,
     "timeWeek": 2094,
     "timeMonth": 2136,
     "timeYear": 2222,
     "dailyMinutesDown": {
-      "2026-02-06": 42,
       "2026-02-07": 107,
       "2026-02-08": 187,
       "2026-02-10": 123,
@@ -80,7 +79,8 @@
       "2026-06-10": 104,
       "2026-07-17": 113,
       "2026-07-18": 89,
-      "2026-07-19": 397
+      "2026-07-19": 397,
+      "2026-07-20": 0
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeDay": 267,
     "timeWeek": 368,
     "timeMonth": 627,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2026-06-03": 26,
       "2026-06-04": 136,
@@ -117,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "52.79%",
+    "uptime": "52.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.40%",
+    "uptimeYear": "86.64%",
     "time": 210,
     "timeDay": 93,
     "timeWeek": 255,
     "timeMonth": 248,
-    "timeYear": 242,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2025-09-04": 1124,
       "2025-09-03": 1440,
@@ -275,7 +275,7 @@
     "timeDay": 1434,
     "timeWeek": 1010,
     "timeMonth": 1168,
-    "timeYear": 1355,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2026-06-18": 355
     }
@@ -295,7 +295,7 @@
     "timeDay": 2518,
     "timeWeek": 2298,
     "timeMonth": 2351,
-    "timeYear": 2169,
+    "timeYear": 2170,
     "dailyMinutesDown": {}
   },
   {
@@ -334,7 +334,7 @@
     "timeDay": 11546,
     "timeWeek": 2378,
     "timeMonth": 1500,
-    "timeYear": 1069,
+    "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-10-14": 21,
       "2025-11-04": 19,
@@ -359,7 +359,7 @@
     "timeDay": 3095,
     "timeWeek": 5497,
     "timeMonth": 4162,
-    "timeYear": 3390,
+    "timeYear": 3392,
     "dailyMinutesDown": {
       "2025-07-27": 28,
       "2025-08-01": 27,
