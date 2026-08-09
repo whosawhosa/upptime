@@ -29,10 +29,10 @@
     "slug": "et-today",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "91.39%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "90.86%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "98.55%",
     "time": 2219,
     "timeDay": 2098,
     "timeWeek": 1948,
@@ -87,7 +87,7 @@
       "2026-08-05": 61,
       "2026-08-07": 347,
       "2026-08-08": 30,
-      "2026-08-09": 0
+      "2026-08-09": 53
     }
   },
   {
@@ -130,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.86%",
+    "uptimeYear": "91.87%",
     "time": 214,
     "timeDay": 465,
     "timeWeek": 265,
