@@ -130,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.25%",
+    "uptimeYear": "94.26%",
     "time": 216,
     "timeDay": 48,
     "timeWeek": 171,
@@ -330,16 +330,16 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 3326,
-    "timeDay": 2770,
-    "timeWeek": 3243,
-    "timeMonth": 4398,
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.64%",
+    "time": 3328,
+    "timeDay": 3073,
+    "timeWeek": 3260,
+    "timeMonth": 4366,
     "timeYear": 3452,
     "dailyMinutesDown": {
       "2025-09-12": 18,
@@ -367,7 +367,7 @@
       "2026-04-21": 179,
       "2026-04-22": 183,
       "2026-04-30": 77,
-      "2026-08-17": 1
+      "2026-08-17": 51
     }
   }
 ]
