@@ -27,19 +27,19 @@
     "url": "https://www.ettoday.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ettoday.net.ico",
     "slug": "et-today",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "98.66%",
+    "uptimeDay": "89.43%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "98.65%",
     "time": 2220,
-    "timeDay": 1989,
-    "timeWeek": 2128,
-    "timeMonth": 2032,
+    "timeDay": 1988,
+    "timeWeek": 2110,
+    "timeMonth": 2031,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2026-02-25": 95,
+      "2026-02-25": 45,
       "2026-02-26": 174,
       "2026-02-27": 66,
       "2026-02-28": 39,
@@ -86,7 +86,7 @@
       "2026-08-11": 176,
       "2026-08-14": 53,
       "2026-08-15": 60,
-      "2026-08-17": 93
+      "2026-08-17": 152
     }
   },
   {
@@ -130,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.20%",
+    "uptimeYear": "94.25%",
     "time": 216,
     "timeDay": 48,
     "timeWeek": 171,
@@ -330,10 +330,10 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 3326,
@@ -366,7 +366,8 @@
       "2026-04-19": 94,
       "2026-04-21": 179,
       "2026-04-22": 183,
-      "2026-04-30": 77
+      "2026-04-30": 77,
+      "2026-08-17": 1
     }
   }
 ]
