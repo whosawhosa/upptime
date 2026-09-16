@@ -127,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "54.51%",
+    "uptime": "54.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -313,10 +313,10 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.50%",
     "time": 3341,
@@ -350,7 +350,8 @@
       "2026-04-22": 183,
       "2026-04-30": 77,
       "2026-08-17": 51,
-      "2026-09-08": 758
+      "2026-09-08": 758,
+      "2026-09-16": 1
     }
   }
 ]
