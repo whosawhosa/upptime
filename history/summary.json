@@ -12,8 +12,8 @@
     "uptimeYear": "99.93%",
     "time": 1215,
     "timeDay": 1242,
-    "timeWeek": 1007,
-    "timeMonth": 1073,
+    "timeWeek": 1021,
+    "timeMonth": 1062,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2025-11-18": 146,
@@ -35,9 +35,9 @@
     "uptimeYear": "98.71%",
     "time": 2205,
     "timeDay": 1529,
-    "timeWeek": 2115,
-    "timeMonth": 2053,
-    "timeYear": 2188,
+    "timeWeek": 2125,
+    "timeMonth": 2060,
+    "timeYear": 2187,
     "dailyMinutesDown": {
       "2026-03-04": 113,
       "2026-03-05": 72,
@@ -101,9 +101,9 @@
     "uptimeYear": "99.64%",
     "time": 659,
     "timeDay": 398,
-    "timeWeek": 379,
-    "timeMonth": 410,
-    "timeYear": 615,
+    "timeWeek": 372,
+    "timeMonth": 402,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2026-06-03": 26,
       "2026-06-04": 136,
@@ -134,9 +134,9 @@
     "uptimeYear": "99.19%",
     "time": 224,
     "timeDay": 82,
-    "timeWeek": 121,
-    "timeMonth": 211,
-    "timeYear": 248,
+    "timeWeek": 131,
+    "timeMonth": 213,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2025-10-17": 25,
       "2025-11-18": 82,
@@ -160,9 +160,9 @@
     "uptimeYear": "99.84%",
     "time": 717,
     "timeDay": 416,
-    "timeWeek": 315,
-    "timeMonth": 529,
-    "timeYear": 697,
+    "timeWeek": 284,
+    "timeMonth": 544,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-11-20": 450,
       "2025-11-21": 409
@@ -181,9 +181,9 @@
     "uptimeYear": "100.00%",
     "time": 2145,
     "timeDay": 1892,
-    "timeWeek": 1610,
-    "timeMonth": 1894,
-    "timeYear": 2050,
+    "timeWeek": 1570,
+    "timeMonth": 1903,
+    "timeYear": 2049,
     "dailyMinutesDown": {}
   },
   {
@@ -199,9 +199,9 @@
     "uptimeYear": "99.99%",
     "time": 198,
     "timeDay": 437,
-    "timeWeek": 276,
-    "timeMonth": 241,
-    "timeYear": 195,
+    "timeWeek": 294,
+    "timeMonth": 240,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-12-25": 37
     }
@@ -219,9 +219,9 @@
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 412,
-    "timeWeek": 748,
-    "timeMonth": 712,
-    "timeYear": 710,
+    "timeWeek": 739,
+    "timeMonth": 720,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -229,20 +229,21 @@
     "url": "https://www.ltn.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ltn.com.tw.ico",
     "slug": "ltn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "59.49%",
+    "uptimeDay": "59.44%",
     "uptimeWeek": "94.21%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.82%",
-    "time": 1432,
+    "time": 1434,
     "timeDay": 943,
-    "timeWeek": 1090,
-    "timeMonth": 1074,
-    "timeYear": 1307,
+    "timeWeek": 1043,
+    "timeMonth": 1099,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2026-06-18": 355,
-      "2026-09-29": 583
+      "2026-09-29": 583,
+      "2026-09-30": 1
     }
   },
   {
@@ -258,9 +259,9 @@
     "uptimeYear": "100.00%",
     "time": 2228,
     "timeDay": 2082,
-    "timeWeek": 2372,
-    "timeMonth": 2383,
-    "timeYear": 2125,
+    "timeWeek": 2351,
+    "timeMonth": 2403,
+    "timeYear": 2123,
     "dailyMinutesDown": {}
   },
   {
@@ -276,8 +277,8 @@
     "uptimeYear": "99.99%",
     "time": 439,
     "timeDay": 871,
-    "timeWeek": 597,
-    "timeMonth": 518,
+    "timeWeek": 622,
+    "timeMonth": 523,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -297,8 +298,8 @@
     "uptimeYear": "99.96%",
     "time": 1161,
     "timeDay": 642,
-    "timeWeek": 666,
-    "timeMonth": 767,
+    "timeWeek": 722,
+    "timeMonth": 768,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2025-10-14": 21,
@@ -322,9 +323,9 @@
     "uptimeYear": "99.44%",
     "time": 3339,
     "timeDay": 2218,
-    "timeWeek": 2946,
-    "timeMonth": 2597,
-    "timeYear": 3434,
+    "timeWeek": 2815,
+    "timeMonth": 2573,
+    "timeYear": 3435,
     "dailyMinutesDown": {
       "2025-12-05": 22,
       "2025-12-27": 38,
