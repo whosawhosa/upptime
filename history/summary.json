@@ -37,7 +37,7 @@
     "timeDay": 2027,
     "timeWeek": 2027,
     "timeMonth": 1921,
-    "timeYear": 2178,
+    "timeYear": 2177,
     "dailyMinutesDown": {
       "2026-03-04": 113,
       "2026-03-05": 72,
@@ -127,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "55.68%",
+    "uptime": "55.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -268,20 +268,21 @@
     "url": "https://newtalk.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/newtalk.tw.ico",
     "slug": "newtalk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 475,
-    "timeDay": 708,
-    "timeWeek": 1009,
-    "timeMonth": 1047,
-    "timeYear": 489,
+    "time": 474,
+    "timeDay": 443,
+    "timeWeek": 906,
+    "timeMonth": 1019,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2025-12-05": 27,
-      "2026-03-10": 47
+      "2026-03-10": 47,
+      "2026-10-28": 1
     }
   },
   {
