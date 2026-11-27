@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw.appledaily.com.ico",
     "slug": "apple-daily",
     "status": "up",
-    "uptime": "88.53%",
+    "uptime": "88.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 1276,
     "timeDay": 1225,
     "timeWeek": 1138,
-    "timeMonth": 2601,
-    "timeYear": 1306,
+    "timeMonth": 2640,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2026-02-13": 57,
       "2026-03-05": 103,
@@ -35,8 +35,8 @@
     "time": 2160,
     "timeDay": 1722,
     "timeWeek": 2006,
-    "timeMonth": 1882,
-    "timeYear": 2148,
+    "timeMonth": 1887,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2026-03-04": 113,
       "2026-03-05": 72,
@@ -102,7 +102,7 @@
     "timeDay": 190,
     "timeWeek": 331,
     "timeMonth": 383,
-    "timeYear": 567,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2026-06-03": 26,
       "2026-06-04": 136,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chinatimes.com.ico",
     "slug": "chinatimes",
     "status": "up",
-    "uptime": "56.46%",
+    "uptime": "56.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -134,7 +134,7 @@
     "time": 241,
     "timeDay": 189,
     "timeWeek": 208,
-    "timeMonth": 257,
+    "timeMonth": 258,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-01-05": 984,
@@ -158,8 +158,8 @@
     "time": 709,
     "timeDay": 256,
     "timeWeek": 499,
-    "timeMonth": 758,
-    "timeYear": 684,
+    "timeMonth": 768,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   },
   {
@@ -176,8 +176,8 @@
     "time": 2061,
     "timeDay": 1249,
     "timeWeek": 1574,
-    "timeMonth": 1582,
-    "timeYear": 1969,
+    "timeMonth": 1581,
+    "timeYear": 1970,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "time": 199,
     "timeDay": 120,
     "timeWeek": 224,
-    "timeMonth": 227,
+    "timeMonth": 229,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-12-25": 37
@@ -214,7 +214,7 @@
     "time": 714,
     "timeDay": 439,
     "timeWeek": 665,
-    "timeMonth": 687,
+    "timeMonth": 686,
     "timeYear": 705,
     "dailyMinutesDown": {}
   },
@@ -232,7 +232,7 @@
     "time": 1302,
     "timeDay": 1169,
     "timeWeek": 1119,
-    "timeMonth": 1080,
+    "timeMonth": 1075,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-06-18": 355,
@@ -254,7 +254,7 @@
     "time": 2201,
     "timeDay": 1662,
     "timeWeek": 2630,
-    "timeMonth": 2231,
+    "timeMonth": 2240,
     "timeYear": 2099,
     "dailyMinutesDown": {}
   },
@@ -272,8 +272,8 @@
     "time": 535,
     "timeDay": 901,
     "timeWeek": 892,
-    "timeMonth": 1383,
-    "timeYear": 568,
+    "timeMonth": 1396,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-03-10": 47,
@@ -294,8 +294,8 @@
     "time": 1151,
     "timeDay": 791,
     "timeWeek": 770,
-    "timeMonth": 849,
-    "timeYear": 1124,
+    "timeMonth": 841,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-03-10": 32
     }
@@ -305,17 +305,17 @@
     "url": "https://www.businessweekly.com.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.businessweekly.com.tw.ico",
     "slug": "businessweekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 3419,
-    "timeDay": 55998,
-    "timeWeek": 10530,
-    "timeMonth": 4722,
-    "timeYear": 3525,
+    "time": 3415,
+    "timeDay": 28402,
+    "timeWeek": 9315,
+    "timeMonth": 4644,
+    "timeYear": 3520,
     "dailyMinutesDown": {
       "2025-12-05": 22,
       "2025-12-27": 38,
@@ -347,7 +347,8 @@
       "2026-10-06": 53,
       "2026-10-11": 658,
       "2026-10-16": 283,
-      "2026-10-18": 287
+      "2026-10-18": 287,
+      "2026-11-27": 1
     }
   }
 ]
